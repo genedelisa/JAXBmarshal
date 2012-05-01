@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<composer>
+    <id>123</id>
+    <familyName>Beethoven</familyName>
+    <givenName>Ludwig</givenName>
+    <works>
+        <work>
+            <title>Cacophony No. 2.718</title>
+            <completionDate>2011-10-26T17:37:00.442-04:00</completionDate>
+            <premiereDate>2011-10-26T17:37:00.442-04:00</premiereDate>
+            <instrumentation>kazoo, comb, wax paper</instrumentation>
+        </work>
+    </works>
+</composer>
